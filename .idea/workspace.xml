@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fee66877-80e9-47df-9737-8c78c7234ba6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/recline.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend.csv.js" afterPath="$PROJECT_DIR$/src/backend.csv.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend.dataproxy.js" afterPath="$PROJECT_DIR$/src/backend.dataproxy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backend.memory.js" afterPath="$PROJECT_DIR$/src/backend.memory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ecma-fixes.js" afterPath="$PROJECT_DIR$/src/ecma-fixes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/model.js" afterPath="$PROJECT_DIR$/src/model.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.flot.js" afterPath="$PROJECT_DIR$/src/view.flot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.graph.js" afterPath="$PROJECT_DIR$/src/view.graph.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.grid.js" afterPath="$PROJECT_DIR$/src/view.grid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.map.js" afterPath="$PROJECT_DIR$/src/view.map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.multiview.js" afterPath="$PROJECT_DIR$/src/view.multiview.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.slickgrid.js" afterPath="$PROJECT_DIR$/src/view.slickgrid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view.timeline.js" afterPath="$PROJECT_DIR$/src/view.timeline.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.facetviewer.js" afterPath="$PROJECT_DIR$/src/widget.facetviewer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.fields.js" afterPath="$PROJECT_DIR$/src/widget.fields.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.filtereditor.js" afterPath="$PROJECT_DIR$/src/widget.filtereditor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.pager.js" afterPath="$PROJECT_DIR$/src/widget.pager.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.queryeditor.js" afterPath="$PROJECT_DIR$/src/widget.queryeditor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/widget.valuefilter.js" afterPath="$PROJECT_DIR$/src/widget.valuefilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="recline.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,33 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="backend.csv.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="backend.csv.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backend.csv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7638889" vertical-offset="15" max-vertical-offset="4710">
-              <caret line="34" column="99" selection-start-line="34" selection-start-column="99" selection-end-line="34" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="4710">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view.multiview.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/view.multiview.js">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="8097" max-vertical-offset="8745">
-              <caret line="573" column="31" selection-start-line="573" selection-start-column="31" selection-end-line="573" selection-end-column="31" />
-              <folding>
-                <marker date="1401720909000" expanded="true" signature="3972:5264" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4103:5115" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4152:4457" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4230:4426" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4516:4627" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4676:5000" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="4757:4969" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="5064:5079" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="19850:20011" placeholder="..." />
-                <marker date="1401720909000" expanded="true" signature="20176:20309" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.113464445" vertical-offset="0" max-vertical-offset="661">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -242,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/widget.filtereditor.js" />
         <option value="$PROJECT_DIR$/src/widget.pager.js" />
         <option value="$PROJECT_DIR$/src/widget.queryeditor.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -292,34 +264,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="recline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recline" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,7 +344,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981739" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -583,16 +527,16 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="8097" max-vertical-offset="8745">
           <caret line="573" column="31" selection-start-line="573" selection-start-column="31" selection-end-line="573" selection-end-column="31" />
           <folding>
-            <marker date="1401720909000" expanded="true" signature="3972:5264" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4103:5115" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4152:4457" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4230:4426" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4516:4627" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4676:5000" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="4757:4969" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="5064:5079" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="19850:20011" placeholder="..." />
-            <marker date="1401720909000" expanded="true" signature="20176:20309" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401720909000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -718,8 +662,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backend.csv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7638889" vertical-offset="15" max-vertical-offset="4710">
-          <caret line="34" column="99" selection-start-line="34" selection-start-column="99" selection-end-line="34" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="4710">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113464445" vertical-offset="0" max-vertical-offset="661">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
